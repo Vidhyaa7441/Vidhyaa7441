@@ -11,7 +11,7 @@ Skilled in **UI/UX**, **Full Stack Basics**, and exploring new technologies.
 - UI/UX Design: Figma
 
 ## 📫 Contact Me
-- 📧 Email: vidhyaathiyagarajan@gmail.com
+- 📧 Email: vidhyaathiyaga@gmail.com
 - 💼 LinkedIn: [Vidhyaa Thiyagarajan](https://www.linkedin.com/in/vidhyaa-thiyagarajan-475127286/)
 
 ---
